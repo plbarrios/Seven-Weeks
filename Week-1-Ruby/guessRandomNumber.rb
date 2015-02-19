@@ -5,3 +5,5 @@ def guessRandomNumber
   puts 'too high' if random < input
   puts 'yeah!!!' if random == input
 end
+
+guessRandomNumber
