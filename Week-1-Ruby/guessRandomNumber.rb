@@ -7,3 +7,6 @@ def guessRandomNumber
 end
 
 guessRandomNumber
+
+puts 'Press Enter to exit'
+gets()
